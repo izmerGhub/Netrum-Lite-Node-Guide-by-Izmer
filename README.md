@@ -108,7 +108,7 @@ netrum-check-basename
 ```
 ✅ Your Base name: mynode.base
 ```
-If unregistered → set one up via Base Name Service.
+If unregistered → set one up via [Base Name Service (click here)](https://www.base.org/names).
 
 ---
 
@@ -161,17 +161,14 @@ netrum-claim
 ```
 💡 Claim after ~24h mining.
 Gas: 0.00002–0.00003 BASE.
-```
----
+
 
 ### 9️⃣ Check Wallet & Balance
 ```bash
 netrum-wallet
 ```
 💡 Shows NPT balance & wallet address.
-```
 
----
 
 ## 🔑 Wallet Management
 ```bash
@@ -179,7 +176,7 @@ netrum-wallet-key
 netrum-wallet-remove
 ```
 
----
+
 
 ## 📞 Support
 Join the **[Official Netrum Discord](https://discord.gg/PJmDWb9C74)** for help.
