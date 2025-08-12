@@ -115,22 +115,20 @@ If unregistered → set one up via Base Name Service.
 ```bash
 netrum-node-id
 ```
-
----
+💡 Shows your current node identity on the Netrum network.
 
 ### 4️⃣ Sign Node ID
 ```bash
 netrum-node-sign
 ```
-
----
+💡 Signs a message to verify ownership.
 
 ### 5️⃣ Register Node
 ```bash
 netrum-node-register
 ```
-
----
+💡 Registers on-chain & backend.
+Gas needed: 0.0002–0.0005 BASE.
 
 ### 6️⃣ Sync Node
 ```bash
@@ -140,8 +138,7 @@ netrum-sync
 ```bash
 netrum-sync-log
 ```
-
----
+💡 Maintains uptime & heartbeat signals.
 
 ### 7️⃣ Start Mining
 ```bash
@@ -151,6 +148,7 @@ netrum-mining
 ```bash
 netrum-mining-log
 ```
+💡 Earns NPT based on uptime.
 
 ---
 
@@ -160,12 +158,16 @@ netrum-mining-log
 ```bash
 netrum-claim
 ```
-
+💡 Claim after ~24h mining.
+Gas: 0.00002–0.00003 BASE.
+```
 ---
 
 ### 9️⃣ Check Wallet & Balance
 ```bash
 netrum-wallet
+```
+💡 Shows NPT balance & wallet address.
 ```
 
 ---
