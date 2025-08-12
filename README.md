@@ -1,4 +1,5 @@
 # Netrum Lite Node – Quick Setup Guide
+![Netrum Lite Node Guide Header](https://github.com/izmerGhub/Netrum-Lite-Node-Guide-by-Izmer/blob/main/asset/lightnode%20guide%20orange.png)
 
 **Netrum Lite Node CLI** is a lightweight tool to join the [Netrum](https://netrum.io) decentralized compute network — create/import wallets, register your node, sync, mine, and claim rewards from your terminal.
 
