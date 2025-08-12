@@ -147,7 +147,13 @@ netrum-mining
 ```
 📜 Logs:
 ```bash
+***Main***
 netrum-mining-log
+
+***Alternative (if main not work)***
+#!/bin/bash
+journalctl -u netrum-node.service -f -n 100 --no-pager
+
 ```
 💡 Earns NPT based on uptime.
 
